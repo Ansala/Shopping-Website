@@ -1,0 +1,18 @@
+#img1 {
+    border-width: 10%;
+    border-color: darkblue;
+    border-style: solid;
+    width: 10%;
+}
+
+#img2{
+    border-width: 10%;
+    border-color: darkblue;
+    border-style: solid;
+    width: 10%;
+}
+
+#container{
+    margin-left: 100%;
+}
+
